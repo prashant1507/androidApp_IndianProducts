@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Indian Products</string>
+    <string name="productDetails">Product Details</string>
+    <string name="barCodeDetails">Product Details</string>
+    <string name="searchProduct_text">Search or select product from dropdown</string>
+    <string name="searchProduct_text_smallScreen">Search Product</string>
+    <string name="mic">MIC</string>
+    <string name="bar">Bar Code</string>
+    <string name="info">Info</string>
+    <string name="productCategory">Product Category</string>
+    <string name="productName">Product Name</string>
+    <string name="companyName">Company Name</string>
+    <string name="companyOrigin">Company Origin</string>
+    <string name="companySince">Company Since</string>
+    <string name="companyOwner">Company Owner</string>
+    <string name="userRating">Your Rating</string>
+    <string name="submit">Submit Rating</string>
+    <string name="barCodeFormat">Bar Code Format</string>
+    <string name="barDetails">Bar Code Details</string>
+    <string name="country">Country</string>
+</resources>

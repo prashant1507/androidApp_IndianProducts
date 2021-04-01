@@ -1,0 +1,2 @@
+Update Products SET Product='Dr. Reddy’s Laboratories', ManufacturerCompany='Dr. Reddy’s Laboratories' WHERE Type='Pharmaceutical' and Product='Dr. Reddy''s Laboratories';
+Update Products SET Product='Divi’s Laboratories', ManufacturerCompany='Divi’s Laboratories' WHERE Type='Pharmaceutical' and Product='Divi''s Laboratories';
